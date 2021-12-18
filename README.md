@@ -5,8 +5,7 @@
 
 Tic-Tac-Toe 2.0 breaks the 2 player limit and allows upto 10 players to play at once!
 
-![tic_tac_toe](https://user-images.githubusercontent.com/77756530/146633277-e64f63e1-c8b6-46bd-a844-6d1527f9bb44.jpg)
-
+![tic_tac_toe](https://user-images.githubusercontent.com/77756530/146633313-3b24ecd8-6894-4fba-bac0-d800c4c77bd1.jpg)
 
 ## 2 quick rules:
 1. Upto 10 players can play the game and each player choose their own character
