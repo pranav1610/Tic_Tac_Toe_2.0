@@ -27,6 +27,11 @@ Tic-Tac-Toe 2.0 breaks the 2 player limit and allows upto 10 players to play at 
 ##### Let's say 5 in a row, column or diagonal wins
 ![win](https://user-images.githubusercontent.com/77756530/146654940-e628e01f-bf9c-4b9f-9c2e-2bdf57660708.jpeg)
 
+## Get Started
+1. Download [JAVA](https://www.java.com/download/ie_manual.jsp) & an IDE for JAVA([IntelliJ](https://www.jetbrains.com/idea/download/#section=windows), [Eclipse](https://www.eclipse.org/downloads/packages/), etc.).
+2. Clone the repository - https://github.com/pranav1610/Tic_Tac_Toe_2.0.git
+3. Build & run
+4. Enjoy!
  
  ## Status
  Completed
